@@ -1,1 +1,2 @@
-# test
+# LVOC
+This repository contains the LVOC code and the related works. The copyright is reserved. 
